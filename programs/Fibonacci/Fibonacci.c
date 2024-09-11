@@ -22,7 +22,7 @@ int main(){
     if (b == numero) {
         printf("%d pertence a sequencia de Fibonacci.\n", numero);
     } else {
-        printf("%d não pertence a sequencia de Fibonacci.\n", numero);
+        printf("%d nao pertence a sequencia de Fibonacci.\n", numero);
     }
 
     return 0;
