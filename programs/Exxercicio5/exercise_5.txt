@@ -1,0 +1,7 @@
+Para resolver esse problema, precisaria de apenas uma ida às salas das lâmpadas e resolveria o problema da seguinte maneira:
+1º) Eu ligaria o primeiro interruptor e o deixaria ligado por alguns poucos minutos, tempo o suficiente para que ele aqueça.
+2º) Desligaria esse primeiro interruptor e ligaria o segundo interruptor.
+3º) Iria até a sala das lâmpadas e faria a seguinte análise:
+    - A lâmpada que está acessa, corresponde ao interruptor 2 (Pois liguei-o e o mantive ligado)
+    - A lâmpada que está apagada e quente é controlada pelo interruptor 1 (Pois a liguei e a mantive ligada por alguns poucos minutos antes de desliga-lá)
+    - A lâmpada que está apagada e fria, corresponde ao interruptor 3 (que não liguei em momento algum)
